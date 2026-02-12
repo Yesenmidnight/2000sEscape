@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"测试大厅","order":1,"parentId":0,"scrollX":832,"scrollY":624},
+{"id":2,"expanded":false,"name":"梦境大厅","order":11,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
+{"id":3,"expanded":true,"name":"家门口","order":2,"parentId":1,"scrollX":1424,"scrollY":640},
+{"id":4,"expanded":true,"name":"客厅","order":3,"parentId":1,"scrollX":1472,"scrollY":640},
+{"id":5,"expanded":true,"name":"厨房","order":4,"parentId":1,"scrollX":1472,"scrollY":640},
+{"id":6,"expanded":true,"name":"卧室","order":5,"parentId":1,"scrollX":1472,"scrollY":640},
+{"id":7,"expanded":true,"name":"卫生间","order":6,"parentId":1,"scrollX":832,"scrollY":624},
+{"id":8,"expanded":true,"name":"教室门口","order":7,"parentId":1,"scrollX":1424,"scrollY":624},
+{"id":9,"expanded":true,"name":"楼梯间","order":8,"parentId":1,"scrollX":1424,"scrollY":624},
+{"id":10,"expanded":true,"name":"钢琴教室","order":9,"parentId":1,"scrollX":832,"scrollY":624},
+{"id":11,"expanded":true,"name":"办公室","order":10,"parentId":1,"scrollX":1424,"scrollY":624}
+]

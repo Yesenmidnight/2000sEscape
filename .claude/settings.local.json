@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"d:\\\\Develop\\\\Game\\\\2000sEscape\\\\2000sEscape\")",
+      "Bash(py:*)",
+      "Bash(winget install:*)",
+      "Bash(/c/Users/Administrator/AppData/Local/Programs/Python/Python312/python.exe:*)",
+      "Bash(\"/c/Program Files/Python312/python.exe\" --version)"
+    ]
+  }
+}
